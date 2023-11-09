@@ -5,3 +5,4 @@ To try these samples, please create .env as follows:
 ```
 API_KEY=<KEY FROM AI21>
 ```
+Also, checkout Jupyter notebook for documented use.
